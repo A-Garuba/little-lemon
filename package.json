@@ -1,9 +1,8 @@
 {
   "name": "little-lemon",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
-  "homepage": "https://leonardojacomussi.github.io/little-lemon",
   "scripts": {
     "dev": "vite",
     "start": "vite",
